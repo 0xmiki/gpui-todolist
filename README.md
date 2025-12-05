@@ -1,5 +1,7 @@
 ## gpui-todolist
 
+![Screenshot of gpui-todolist](./image/image.png)
+
 A tiny, very chill todo app built with `gpui` (the Rust UI toolkit used by Zed).
 
 This project is meant as a small, readable example of how to build a desktop UI with gpui — nothing fancy, just inputs, a list, and some state.
